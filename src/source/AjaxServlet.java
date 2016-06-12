@@ -1,4 +1,4 @@
-package source;
+package ca.etsmtl.gti525.devoir1;
 
 import java.io.IOException;
 import javax.servlet.RequestDispatcher;
